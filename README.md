@@ -15,5 +15,4 @@ This blog website is designed to provide a clean and user-friendly interface for
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express 
-- **Templating Engine**: Handlebars
 - **Styling**: Bootstrap
