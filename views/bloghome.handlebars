@@ -1,0 +1,12 @@
+<div style="margin-top: 6rem;"></div>
+{{#each blogs}}
+  <div class="container mt-4">
+    <div class="alert alert-dark" role="alert">
+      <a href="/blog/{{this.slug}}">How to get started with {{this.topic}}</a>
+      <br>
+      <p>{{this.desc}}</p>
+    </div>
+  </div>
+</div>
+{{/each}}
+
